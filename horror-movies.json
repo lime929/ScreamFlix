@@ -1,0 +1,338 @@
+[
+  {
+    "_id": "1",
+    "name": "Sinners",
+    "description": "Twin brothers return to their Mississippi hometown in the 1930s hoping for a fresh start, only to awaken a buried supernatural evil that feeds on their sins and the town’s darkest secrets.",
+    "images": [
+      "/images/horror/sinners-1.jpg",
+      "/images/horror/sinners-2.jpg"
+    ],
+    "year": 2025,
+    "rating": "R",
+    "genres": ["Horror", "Supernatural", "Drama"],
+    "runtimeMinutes": 137,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Ryan Coogler",
+      "mainCast": ["Michael B. Jordan"],
+      "themes": ["Guilt", "Racism", "Family"],
+      "setting": "Mississippi Delta, 1930s"
+    }
+  },
+  {
+    "_id": "2",
+    "name": "The Substance",
+    "description": "A fading celebrity turns to a black‑market miracle drug that creates a younger version of herself, but the strict rules of sharing one life spiral into grotesque body horror when they are broken.",
+    "images": [
+      "/images/horror/the-substance-1.jpg",
+      "/images/horror/the-substance-2.jpg"
+    ],
+    "year": 2024,
+    "rating": "R",
+    "genres": ["Body Horror", "Satire"],
+    "runtimeMinutes": 141,
+    "language": "English",
+    "country": "United Kingdom / France",
+    "details": {
+      "director": "Coralie Fargeat",
+      "mainCast": ["Demi Moore", "Margaret Qualley"],
+      "themes": ["Aging", "Beauty standards", "Identity"],
+      "setting": "Contemporary Hollywood"
+    }
+  },
+  {
+    "_id": "3",
+    "name": "I Saw the TV Glow",
+    "description": "Two lonely teens bond over a surreal late‑night TV show, but as they grow older, their obsession blurs the line between fantasy and reality in ways that threaten to swallow their lives.",
+    "images": [
+      "/images/horror/i-saw-the-tv-glow-1.jpg",
+      "/images/horror/i-saw-the-tv-glow-2.jpg"
+    ],
+    "year": 2024,
+    "rating": "PG-13",
+    "genres": ["Psychological Horror", "Drama"],
+    "runtimeMinutes": 100,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Jane Schoenbrun",
+      "mainCast": ["Justice Smith"],
+      "themes": ["Identity", "Media obsession", "Isolation"],
+      "setting": "American suburbs, 1990s–2000s"
+    }
+  },
+  {
+    "_id": "4",
+    "name": "Five Nights at Freddy's 2",
+    "description": "One year after the haunted pizzeria closed, a local festival built on the legend of Freddy Fazbear’s becomes the stage for new murders as possessed animatronics return with even deadlier secrets.",
+    "images": [
+      "/images/horror/fnaf2-1.jpg",
+      "/images/horror/fnaf2-2.jpg"
+    ],
+    "year": 2025,
+    "rating": "PG-13",
+    "genres": ["Horror", "Supernatural", "Thriller"],
+    "runtimeMinutes": 104,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Emma Tammi",
+      "mainCast": ["Josh Hutcherson"],
+      "themes": ["Haunting", "Guilt", "Urban legend"],
+      "setting": "Modern small town, festival grounds"
+    }
+  },
+  {
+    "_id": "5",
+    "name": "Lisa Frankenstein",
+    "description": "A misfit teen in 1989 revives a Victorian corpse and falls in love, sending the pair on a neon‑soaked, bloody quest for the perfect body and a happily‑ever‑after stitched from spare parts.",
+    "images": [
+      "/images/horror/lisa-frankenstein-1.jpg",
+      "/images/horror/lisa-frankenstein-2.jpg"
+    ],
+    "year": 2024,
+    "rating": "PG-13",
+    "genres": ["Horror", "Romance", "Comedy"],
+    "runtimeMinutes": 101,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Zelda Williams",
+      "mainCast": ["Kathryn Newton", "Cole Sprouse"],
+      "themes": ["Teen angst", "Body image", "Love"],
+      "setting": "American suburbs, 1989"
+    }
+  },
+  {
+    "_id": "6",
+    "name": "Re-Animator",
+    "description": "A brilliant but deranged medical student invents a glowing serum that can reanimate the dead, unleashing grotesque, darkly comic chaos in his university’s morgue and beyond.",
+    "images": [
+      "/images/horror/reanimator-1.jpg",
+      "/images/horror/reanimator-2.jpg"
+    ],
+    "year": 1985,
+    "rating": "R",
+    "genres": ["Horror", "Comedy"],
+    "runtimeMinutes": 84,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Stuart Gordon",
+      "mainCast": ["Jeffrey Combs"],
+      "themes": ["Mad science", "Hubris", "Corruption"],
+      "setting": "Medical school and hospital"
+    }
+  },
+  {
+    "_id": "7",
+    "name": "The Thing",
+    "description": "At a remote Antarctic research station, a shape‑shifting alien that perfectly imitates its victims turns a group of men against each other as paranoia becomes as deadly as the creature itself.",
+    "images": [
+      "/images/horror/the-thing-1.jpg",
+      "/images/horror/the-thing-2.jpg"
+    ],
+    "year": 1982,
+    "rating": "R",
+    "genres": ["Horror", "Science Fiction"],
+    "runtimeMinutes": 109,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "John Carpenter",
+      "mainCast": ["Kurt Russell"],
+      "themes": ["Paranoia", "Isolation", "Trust"],
+      "setting": "Antarctic research station"
+    }
+  },
+  {
+    "_id": "8",
+    "name": "Aliens",
+    "description": "Decades after surviving a deadly alien, Ellen Ripley returns with a squad of marines to a colonized moon, only to find a devastated outpost and an army of xenomorphs waiting.",
+    "images": [
+      "/images/horror/aliens-1.jpg",
+      "/images/horror/aliens-2.jpg"
+    ],
+    "year": 1986,
+    "rating": "R",
+    "genres": ["Science Fiction", "Action", "Horror"],
+    "runtimeMinutes": 137,
+    "language": "English",
+    "country": "United States / United Kingdom",
+    "details": {
+      "director": "James Cameron",
+      "mainCast": ["Sigourney Weaver"],
+      "themes": ["Motherhood", "War", "Corporate greed"],
+      "setting": "Colony on LV-426"
+    }
+  },
+  {
+    "_id": "9",
+    "name": "Evil Dead II",
+    "description": "Ash returns to a secluded cabin in the woods, where cursed recordings unleash demonic forces that possess his friends and push him into a gory, slapstick battle for survival.",
+    "images": [
+      "/images/horror/evil-dead-2-1.jpg",
+      "/images/horror/evil-dead-2-2.jpg"
+    ],
+    "year": 1987,
+    "rating": "R",
+    "genres": ["Horror", "Comedy"],
+    "runtimeMinutes": 84,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Sam Raimi",
+      "mainCast": ["Bruce Campbell"],
+      "themes": ["Possession", "Survival", "Absurdity"],
+      "setting": "Remote forest cabin"
+    }
+  },
+  {
+    "_id": "10",
+    "name": "The Shining",
+    "description": "A struggling writer becomes winter caretaker of an isolated mountain hotel, where sinister forces slowly drive him mad and turn him against his wife and psychic young son.",
+    "images": [
+      "/images/horror/the-shining-1.jpg",
+      "/images/horror/the-shining-2.jpg"
+    ],
+    "year": 1980,
+    "rating": "R",
+    "genres": ["Psychological Horror"],
+    "runtimeMinutes": 146,
+    "language": "English",
+    "country": "United Kingdom / United States",
+    "details": {
+      "director": "Stanley Kubrick",
+      "mainCast": ["Jack Nicholson", "Shelley Duvall"],
+      "themes": ["Madness", "Isolation", "Family"],
+      "setting": "Overlook Hotel, Colorado"
+    }
+  },
+  {
+    "_id": "11",
+    "name": "The Descent",
+    "description": "A group of friends on a caving trip become trapped underground and discover they’re not alone, as blind, flesh‑eating creatures stalk them through the suffocating darkness.",
+    "images": [
+      "/images/horror/the-descent-1.jpg",
+      "/images/horror/the-descent-2.jpg"
+    ],
+    "year": 2005,
+    "rating": "R",
+    "genres": ["Horror", "Thriller"],
+    "runtimeMinutes": 99,
+    "language": "English",
+    "country": "United Kingdom",
+    "details": {
+      "director": "Neil Marshall",
+      "mainCast": ["Shauna Macdonald"],
+      "themes": ["Grief", "Trust", "Claustrophobia"],
+      "setting": "Uncharted cave system"
+    }
+  },
+  {
+    "_id": "12",
+    "name": "Saw",
+    "description": "Two strangers wake up chained in a filthy bathroom, forced to play a sadistic game by a masked killer who tests how far people will go to stay alive.",
+    "images": [
+      "/images/horror/saw-1.jpg",
+      "/images/horror/saw-2.jpg"
+    ],
+    "year": 2004,
+    "rating": "R",
+    "genres": ["Horror", "Thriller"],
+    "runtimeMinutes": 103,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "James Wan",
+      "mainCast": ["Cary Elwes", "Leigh Whannell"],
+      "themes": ["Punishment", "Morality", "Survival"],
+      "setting": "Industrial city, various trap locations"
+    }
+  },
+  {
+    "_id": "13",
+    "name": "Noroi: The Curse",
+    "description": "A documentary filmmaker investigating strange paranormal incidents uncovers a sprawling curse tied to an ancient demon, piecing together footage that suggests the apocalypse may already be underway.",
+    "images": [
+      "/images/horror/noroi-1.jpg",
+      "/images/horror/noroi-2.jpg"
+    ],
+    "year": 2005,
+    "rating": "Not Rated",
+    "genres": ["Horror", "Found Footage"],
+    "runtimeMinutes": 115,
+    "language": "Japanese",
+    "country": "Japan",
+    "details": {
+      "director": "Kōji Shiraishi",
+      "mainCast": ["Jin Muraki"],
+      "themes": ["Curses", "Media", "Folklore"],
+      "setting": "Modern Japan, various locations"
+    }
+  },
+  {
+    "_id": "14",
+    "name": "The Ring",
+    "description": "After watching a mysterious videotape that supposedly kills viewers in seven days, a journalist races to uncover the source of the curse before time runs out for her and her son.",
+    "images": [
+      "/images/horror/the-ring-1.jpg",
+      "/images/horror/the-ring-2.jpg"
+    ],
+    "year": 2002,
+    "rating": "PG-13",
+    "genres": ["Horror", "Mystery"],
+    "runtimeMinutes": 115,
+    "language": "English",
+    "country": "United States",
+    "details": {
+      "director": "Gore Verbinski",
+      "mainCast": ["Naomi Watts"],
+      "themes": ["Cursed media", "Motherhood", "Urban legend"],
+      "setting": "Pacific Northwest, USA"
+    }
+  },
+  {
+    "_id": "15",
+    "name": "The Orphanage",
+    "description": "A woman returns to the seaside orphanage where she grew up and plans to reopen it, but her son’s new imaginary friends and a masked child hint at a tragic secret buried in the house.",
+    "images": [
+      "/images/horror/the-orphanage-1.jpg",
+      "/images/horror/the-orphanage-2.jpg"
+    ],
+    "year": 2007,
+    "rating": "R",
+    "genres": ["Horror", "Drama", "Mystery"],
+    "runtimeMinutes": 105,
+    "language": "Spanish",
+    "country": "Spain",
+    "details": {
+      "director": "J. A. Bayona",
+      "mainCast": ["Belén Rueda"],
+      "themes": ["Grief", "Childhood", "Haunting"],
+      "setting": "Old orphanage on the Spanish coast"
+    }
+  },
+  {
+    "_id": "16",
+    "name": "Obsession",
+    "description": "After breaking the mysterious 'One Wish Willow' to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "images": [
+      "/images/horror/obsession-1.jpg",
+      "/images/horror/obsession-2.png"
+    ],
+    "year": 2025,
+    "rating": "R",
+    "genres": ["Romance", "Drama", "Psychological Horror"],
+    "runtimeMinutes": 109,
+    "language": "English",
+    "country": "America",
+    "details": {
+      "director": "Curry Barker",
+      "mainCast": ["Inde Navarrette"],
+      "themes": ["Love", "Control", "Toxicity"],
+      "setting": "San Fernando, California"
+    }
+  }
+]

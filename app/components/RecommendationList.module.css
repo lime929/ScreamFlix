@@ -1,0 +1,43 @@
+.recommendations {
+  list-style: none;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  background: rgba(15, 14, 14, 0.95);
+  padding: 1rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.recommendation {
+  background: rgba(255, 255, 255), 0.08;
+  backdrop-filter: blur(10px);
+  padding: 2rem;
+  border-radius: 16px;
+  color: white;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.recommendation:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+}
+
+.recommendation h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.6rem;
+}
+
+.author {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-bottom: 1rem;
+}
+
+.content {
+  line-height: 1.6;
+  font-size: 1rem;
+}

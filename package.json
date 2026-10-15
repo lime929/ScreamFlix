@@ -1,5 +1,5 @@
 {
-  "name": "it339-project2-mendez",
+  "name": "ScreamFlix",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "16.1.6",
+    "next": "^16.3.0",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-icons": "^5.7.0",
+    "react-router-dom": "^7.18.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

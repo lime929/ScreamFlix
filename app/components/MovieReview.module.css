@@ -1,0 +1,88 @@
+.reviewItem {
+	position: relative;
+	padding: 1.5rem 1.5rem 1.4rem 1.75rem;
+	background: rgb(17 17 17 / 88%);
+	border-bottom: 1px solid #333333;
+	border-left: 3px solid #541212;
+	box-shadow: 0 0.75rem 1.5rem rgb(0 0 0 / 18%);
+}
+
+.reviewItem:first-child {
+	border-top: 1px solid #333333;
+}
+
+.reviewItem::before {
+	position: absolute;
+	top: 1.55rem;
+	left: -0.42rem;
+	width: 0.65rem;
+	height: 0.65rem;
+	background: #b91c1c;
+	border: 2px solid #171717;
+	border-radius: 50%;
+	content: '';
+}
+
+.titleRow {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 1rem;
+}
+
+.title {
+	margin: 0 0 0.65rem;
+	color: #eeeeee;
+	font-size: 1.25rem;
+	font-weight: 800;
+	line-height: 1.25;
+}
+
+.rating {
+	flex: 0 0 auto;
+	color: #d12a2a;
+	font-size: 0.95rem;
+	letter-spacing: 0.08em;
+	line-height: 1;
+}
+
+.rating span {
+	display: flex;
+	gap: 0.2rem;
+	text-shadow: 0 0 0.5rem rgb(185 28 28 / 30%);
+}
+
+.rating svg {
+	display: block;
+}
+
+.text {
+	margin: 0;
+	color: #c1c1c1;
+	font-size: 1rem;
+	line-height: 1.7;
+}
+
+.writer {
+	margin: 1rem 0 0;
+	color: #8d8d8d;
+	font-size: 0.8rem;
+	letter-spacing: 0.04em;
+}
+
+.writer b::before {
+	color: #b91c1c;
+	content: '— ';
+}
+
+@media (max-width: 48rem) {
+	.reviewItem {
+		padding: 1.25rem 1rem 1.2rem 1.4rem;
+	}
+
+	.titleRow {
+		align-items: flex-start;
+		flex-direction: column;
+		gap: 0.45rem;
+	}
+}
