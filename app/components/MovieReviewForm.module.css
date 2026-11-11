@@ -83,6 +83,10 @@
 	transform: translateY(-1px);
 }
 
+.ratingButton.selected {
+	color: #d12a2a;
+}
+
 .ratingButton:focus-visible {
 	border-radius: 0.2rem;
 	outline: 2px solid #eeeeee;

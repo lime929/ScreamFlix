@@ -4,7 +4,7 @@ import AboutImage from '@/assets/images/banner2.jpg';
 export default function About() {
   return (
     <section className="relative w-full bg-[#0f0e0e] overflow-hidden">
-      <div className="relative w-full h-[690px]">
+      <div className="relative w-full h-[690px] max-[670px]:h-auto">
         <Image
           src={AboutImage}
           alt="Black and white independent movie theater"
@@ -15,7 +15,7 @@ export default function About() {
 
         <div className="absolute inset-0 bg-[#0f0e0e]/30"></div>  
 
-        <div className="absolute inset-0 flex flex-col justify-end px-16 py-8">
+        <div className="absolute inset-0 flex flex-col justify-end px-16 py-8 max-[670px]:relative max-[670px]:inset-auto max-[670px]:px-6 max-[670px]:py-10">
           <div className="max-w-2xl">
             <p className="text-[#468a9a] font-semibold text-sm mb-3 tracking-wider uppercase">
               About ScreamFlix

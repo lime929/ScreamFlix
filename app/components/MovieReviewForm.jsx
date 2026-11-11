@@ -6,7 +6,7 @@ function MovieReviewForm({onAddReview}) {
     const [enteredTitle, setEnteredTitle] = useState('');
     const [enteredText, setEnteredText] = useState('');
     const [enteredWriter, setEnteredWriter] = useState('');
-    const [enteredRating, setEnteredRating] = useState(5);
+    const [enteredRating, setEnteredRating] = useState(1);
 
     function titleChangeHandler(event) {
         setEnteredTitle(event.target.value);
@@ -79,7 +79,7 @@ function MovieReviewForm({onAddReview}) {
                 <button
                   key={rating}
                   type="button"
-                  className={classes.ratingButton}
+                  className={`${classes.ratingButton} ${isSelected ? classes.selected : ''}`}
                   aria-label={`${rating} star${rating === 1 ? '' : 's'}`}
                   aria-pressed={rating === enteredRating}
                   onClick={() => setEnteredRating(rating)}

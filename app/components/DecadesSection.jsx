@@ -20,10 +20,10 @@ export default function DecadeSection({ decade, movies }) {
       <h2 className="text-3xl md:text-4xl font-black text-[#eeeeee] mb-8 drop-shadow-2xl tracking-tight">
         {decade}'s Top Picks
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {top3.map((movie) => (
           <div key={movie._id} className="group">
-            <div className="relative w-72 h-48 md:w-80 md:h-52 mx-auto rounded-xl overflow-hidden shadow-lg">
+            <div className="relative w-72 h-48 md:w-96 md:h-64 lg:w-80 lg:h-52 mx-auto rounded-xl overflow-hidden shadow-lg">
               <Link
           href={`/movies/${movie._id}`}>
               <Image

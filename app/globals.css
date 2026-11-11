@@ -150,7 +150,7 @@ body {
   display: none;
 }
 
-@media (max-width: 48rem) {
+@media (max-width: 64rem) {
   .navbar {
     padding: 1.22rem 1rem;
   }
@@ -204,4 +204,3 @@ body {
     background: rgb(0 0 0);
   }
 }
-
